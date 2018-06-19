@@ -1,0 +1,4 @@
+FacebookLogIn.TextBox_Email.Id          = email
+FacebookLogin.TextBox.Password.Id       = pass
+FacebookLogin_Button_Login.Id           = u_0_3
+FacebookLogin_Label_Title.XPath         = //*[@id = "sideNav"]//*[text() = "Di?m Max"]
